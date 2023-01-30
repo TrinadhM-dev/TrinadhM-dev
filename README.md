@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on web technologies
 - 🌱 I’m currently learning markdown and java
 - 📫 How to reach me: Email me here <trinadhm469@gmail.com>
-- ⚡ Fun fact: code while coffee is hot
+- ⚡ code while coffee is hot
