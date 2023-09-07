@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on web technologies
-- 🌱 I’m currently learning markdown and java
+- 🌱 I’m currently learning javascript and Angular
 - 📫 Email me here <trinadhm469@gmail.com>
 - ⚡ code while coffee is hot
