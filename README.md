@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Trinadh Machanavazzala</h1>
+<img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="web developer" width="160px" align="right">
+
 <h3 align="center">A passionate full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinadhm-dev&label=Profile%20views&color=0e75b6&style=flat" alt="trinadhm-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinadhm-dev" alt="trinadhm-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/trinadh_m" target="blank"><img src="https://img.shields.io/twitter/follow/trinadh_m?logo=twitter&style=for-the-badge" alt="trinadh_m" /></a> </p>
 
