@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,Angular,Node JS,MongoDB etc**
 
-- 📫 How to reach me **trinadhm469@gmail.com**
+- 📫 How to reach me **mtrinadh801@gmail.com**
 
 - ⚡ Fun fact **Javascript says your tears are delicious**
 
